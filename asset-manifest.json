@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/redux-contest-f4/static/js/main.616e935f.js",
+    "static/js/787.c9ed701a.chunk.js": "/redux-contest-f4/static/js/787.c9ed701a.chunk.js",
+    "index.html": "/redux-contest-f4/index.html",
+    "main.616e935f.js.map": "/redux-contest-f4/static/js/main.616e935f.js.map",
+    "787.c9ed701a.chunk.js.map": "/redux-contest-f4/static/js/787.c9ed701a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.616e935f.js"
+  ]
+}
