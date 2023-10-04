@@ -1,0 +1,29 @@
+input{
+    width:300px;
+    height:40px;
+    font-size: 20px;
+}
+button{
+
+    background-color: cornflowerblue;
+    padding:10px;
+    margin:10px;
+    border-radius: 10px;
+    border:none;
+    font-size: 20px;
+}
+.con{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    font-size: 25px;;
+}
+.def1, .def2,.sp{
+    font-size: 18px;
+    margin:3px;
+}
+.sp{
+    margin-top:10px;
+}

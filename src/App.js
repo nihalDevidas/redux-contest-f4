@@ -1,10 +1,19 @@
 import React from "react";
+import Hello from "./components/Hello";
+import History from "./components/History";
+import Nav from "./components/Nav";
+import {Route,Routes} from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
-      <h1>hello react</h1>
-      <h2>hello again</h2>
+
+      <Nav/>       
+
+      <Routes>
+        <Route path = "/"  element = {<Hello/>}/>
+        <Route path="/history" element = {<History/>}/>
+      </Routes>
     </div>
   );
 }
